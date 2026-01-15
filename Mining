@@ -20,7 +20,7 @@ git push -u origin main
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git"
+    "url": "https://github.com/mg9kb2wpgg-wq/Hash-mining.git"
   },
   "dependencies": {
     // add your runtime packages here, e.g.:

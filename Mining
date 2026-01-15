@@ -5,3 +5,36 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/mg9kb2wpgg-wq/Hash-mining.git
 git push -u origin main
+{
+  "name": "my-awesome-app",
+  "version": "1.0.0",
+  "description": "My cool app — replace this with a short description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["app", "node", "example"],
+  "author": "Bradley",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git"
+  },
+  "dependencies": {
+    // add your runtime packages here, e.g.:
+    // "express": "^4.18.2"
+  },
+  "devDependencies": {
+    // add dev-only tools here, e.g.:
+    // "nodemon": "^3.0.1"
+  }
+}
+npm install express          # example runtime dependency
+npm install --save-dev nodemon   # example dev tool
+
+
+
+
+
